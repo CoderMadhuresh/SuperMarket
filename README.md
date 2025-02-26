@@ -60,4 +60,4 @@ I offer full customization and feature enhancements based on your requirements.<
 
 ## Screenshots
 
-[Assets/Asset 1.jpg](https://github.com/CoderMadhuresh/SuperMarket/blob/9f8ca95759daa29033def4bf2193a5d4de2412c0/Assets/Asset%201.jpg)
+[[Assets/Asset 1.jpg](https://github.com/CoderMadhuresh/SuperMarket/blob/9f8ca95759daa29033def4bf2193a5d4de2412c0/Assets/Asset%201.jpg)](https://raw.githubusercontent.com/CoderMadhuresh/SuperMarket/refs/heads/master/Assets/Asset%201.jpg)
