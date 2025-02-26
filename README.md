@@ -1,4 +1,4 @@
-🛒 # SuperMarket App
+🛒 ** SuperMarket App **
 The SuperMarket App is your go-to destination for a seamless grocery shopping experience. From fresh produce to household essentials, find everything you need at your fingertips. Browse through various product categories and get your groceries delivered to your doorstep or ready for pickup.
 built with Kotlin and Jetpack Compose, powered by Firebase Realtime Database and Firebase Authentication.
 
