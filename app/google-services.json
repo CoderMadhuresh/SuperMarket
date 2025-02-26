@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959735408220",
+    "project_id": "supermarket-ae4e4",
+    "storage_bucket": "supermarket-ae4e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959735408220:android:0769506d0e02e85ccd6899",
+        "android_client_info": {
+          "package_name": "com.madhuresh.supermarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHeX6nYLUSXN7zPxOQewSbQnH-2ZMvqW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
