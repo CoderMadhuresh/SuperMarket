@@ -1,25 +1,25 @@
 # 🛒 SuperMarket App
 _The SuperMarket App is your go-to destination for a seamless grocery shopping experience. From fresh produce to household essentials, find everything you need at your fingertips. Browse through various product categories and get your groceries delivered to your doorstep or ready for pickup. Built with Kotlin and Jetpack Compose, powered by Firebase Realtime Database and Firebase Authentication._
 
-**🚀 Features**
+## 🚀 Features
 ### 🏪 Supermarket at Your Fingertips
 ✔️ Browse Products: View a variety of supermarket products in different categories <br />
--✔️ Real-time Updates: Products and prices update dynamically from Firebase Realtime Database<br />
+✔️ Real-time Updates: Products and prices update dynamically from Firebase Realtime Database<br />
 
-🛒 Shopping Made Easy
-✔️ Add to Cart: Select items and manage your shopping cart effortlessly
-✔️ Seamless Checkout: Complete your purchase with an easy-to-use interface
+### 🛒 Shopping Made Easy
+✔️ Add to Cart: Select items and manage your shopping cart effortlessly <br />
+✔️ Seamless Checkout: Complete your purchase with an easy-to-use interface <br />
 
-🔐 Secure Authentication
-✔️ Firebase Authentication: Login & Register using Email/Password
-✔️ Persistent Login: Stay signed in across app sessions
+### 🔐 Secure Authentication
+✔️ Firebase Authentication: Login & Register using Email/Password <br />
+✔️ Persistent Login: Stay signed in across app sessions <br />
 
-🎨 Modern UI with Jetpack Compose
-✔️ Beautiful, smooth UI: Built with Jetpack Compose for a dynamic experience
+### 🎨 Modern UI with Jetpack Compose <br />
+✔️ Beautiful, smooth UI: Built with Jetpack Compose for a dynamic experience<br />
 ✔️ Dark Mode Support 🌙
 
- Multi-Category Shopping
-✔️ Grocery, Bakery, Drinks, and More – Users can shop from multiple categories
+ ### Multi-Category Shopping
+✔️ Grocery, Bakery, Drinks, and More – Users can shop from multiple categories<br />
 
 
 🏗️ Tech Stack
